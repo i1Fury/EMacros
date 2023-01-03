@@ -1,0 +1,10 @@
+/.vscode
+/archive
+/build
+/build.py
+/dist
+/EMacros.spec
+/installer.iss
+/Output
+/TOS.txt
+/__pycache__
