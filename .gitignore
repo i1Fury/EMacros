@@ -8,3 +8,7 @@
 /Output
 /TOS.txt
 /__pycache__
+
+# Stop all __pycache__ folders and subfolders
+**/__pycache__/
+/__pycache__/
